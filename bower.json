@@ -1,0 +1,22 @@
+{
+  "name": "edu-lyc-aluno-custom-2",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "LeandroFChaves <leandro.chaves@techne.com.br>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.5.3",
+    "angular-ui-router": "0.2.13",
+    "angular-resource": "1.3.15"
+  }
+}
